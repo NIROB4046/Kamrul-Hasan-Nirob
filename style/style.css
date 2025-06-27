@@ -100,10 +100,11 @@ width: 80%;
 .section-02{
 display: grid;
 grid-template-columns: repeat(2,1fr);
+/* width: 100%; */
 
 }
 .section2-img1{
-width: 80%;
+width: 100%;
 }
 .section2-para1{
 font-weight: 700;
@@ -117,6 +118,7 @@ color: rgb(54, 57, 88);
 }
 .section2-text{
 margin-top: 200px;
+width: 100%;
 }
 .section2-btn{
 background-color: rgb(255, 128, 99);
